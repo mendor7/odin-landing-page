@@ -11,8 +11,8 @@ body {
     align-items: center;
 }
 .headerRight {
-    margin-left: auto;
     padding: 0px 112px 0px 0px;
+    margin-left: auto;
 }
 .headerLogo {
     color: #F9FAF8;
@@ -29,6 +29,10 @@ body {
 .headerLinks {
     color: #E5E7EB;
     text-decoration: none;
+}
+.headerStay {
+    position: sticky;
+    top: 0;
 }
 
 .layer1 { /*HERO*/
